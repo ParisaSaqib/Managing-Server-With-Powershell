@@ -107,3 +107,7 @@ To find other commands we can run, we can use the Get-Command cmdlet to get all 
 - JasonGerend. (n.d.). Remote Server Administration Tools. Microsoft Learn. https://learn.microsoft.com/en-us/windows-server/remote/remote-server-administration-tools
 - Sdwheeler. (2022, December 9). PowerShell remoting - PowerShell. Microsoft Learn. https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/08-powershell-remoting?view=powershell-7.4
 - Sdwheeler. (2023, July 5). about_Remote - PowerShell. Microsoft Learn. https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_remote?view=powershell-7.4
+
+  ## Acknowledgement:
+
+This project was completed in collaboration with Marian Aquilizan and Brhamjot Singh as our final project for the Virtualization class at BCIT. Their contributions and teamwork were invaluable to the successful execution of this project.
